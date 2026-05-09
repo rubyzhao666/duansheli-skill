@@ -1,7 +1,3 @@
-没问题，去掉所有参赛相关内容，纯产品文档版：
-
----
-
 ```markdown
 <p align="center">
   <h1 align="center">✂️ 断舍离 Skill</h1>
